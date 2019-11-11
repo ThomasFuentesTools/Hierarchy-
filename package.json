@@ -1,0 +1,16 @@
+{
+  "name": "com.tftools.hierarchyplus",
+  "version": "0.0.1",
+  "displayName": "TF Tools - Hierarchy +",
+  "description": "Extensions for the Hierarchy window.",
+  "unity": "2019.2",
+  "unityRelease": "4f1",
+  "keywords": [],
+  "author": {
+    "name": "Thomas Fuentes",
+    "email": "thomasfuentestools@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}
